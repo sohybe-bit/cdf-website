@@ -2,13 +2,27 @@
 <html>
 <head>
   <title>CoreIntel Systems – Cyber Defence Force</title>
-
-  <!-- Redirect to Base44 CDF site -->
-  <meta http-equiv="refresh" content="0; url=https://core-intel-cdf-copy-copy-copy-a9e10a68.base44.app">
-
+  <!-- Redirect to your Base44 site after 2 seconds -->
+  <meta http-equiv="refresh" content="2; url=https://core-intel-cdf-copy-copy-copy-a9e10a68.base44.app/">
+  <style>
+    body {
+      background: #0b0f1a;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+    h1 { font-size: 3em; margin: 0; }
+    p { font-size: 1.5em; margin-top: 0.5em; }
+  </style>
 </head>
-<body style="background:#0b0f1a; color:white; text-align:center; font-family:Arial;">
+<body>
   <h1>CoreIntel Systems</h1>
-  <p>Redirecting to Cyber Defence Force website…</p>
+  <p>Cyber Defence Force</p>
+  <p>Redirecting to our website…</p>
 </body>
 </html>
