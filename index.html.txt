@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
   <title>CoreIntel Systems – Cyber Defence Force</title>
-  <!-- Redirect to your Base44 site after 2 seconds -->
-  <meta http-equiv="refresh" content="2; url=https://core-intel-cdf-copy-copy-copy-a9e10a68.base44.app/">
+  <!-- Redirect to Base44 site after 0 seconds -->
+  <meta http-equiv="refresh" content="0; url=https://core-intel-cdf-copy-copy-copy-a9e10a68.base44.app/">
   <style>
     body {
       background: #0b0f1a;
